@@ -1,4 +1,4 @@
-THREE.Vector3.prototype.rotateAround = function (point, axis, angle) {
+THREE.Vector3.prototype.rotateAround = (point, axis, angle) => {
     var q = new THREE.Quaternion();
     q.setFromAxisAngle(axis, angle);
 
