@@ -8,3 +8,6 @@ mimicking the effect of gravity in accordance with the principles of general rel
 The project incorporates the Lorentz factor from special relativity, as well as a simplified representation of gravitational time dilation. 
 
 The GUI allows users to manipulate certain variables in the simulation and provides real-time updates on each cube's rotation count and velocity.
+
+### –
+`npx http-server` to run
