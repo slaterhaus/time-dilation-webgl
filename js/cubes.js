@@ -108,6 +108,3 @@ function animate() {
 }
 
 animate();
-
-
-animate();
